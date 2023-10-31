@@ -12,7 +12,7 @@ The cathode of LED has a mark of half-circle.
 | component | note |
 | --------- | ---- |
 | C1, C2 | 1uF |
-| R1, R2, R3, R4 | 510K |
-| R5, R6 | 68ohm |
+| R1, R4, R5, R6 | 510K |
+| R2, R3 | 68ohm |
 | U1 | NL27WZ04 |
 | D1, D2 | LED, reverse mount |
