@@ -1,7 +1,7 @@
 # LastRabbit
 easy soldering and desoldering kit of surface-mount components for a badge of rabbit
 
-## circuit and components
+## components
 
 ![rabbit](https://github.com/ndGarage/LastRabbit/blob/main/rabbit-back.png)
 
@@ -18,3 +18,7 @@ The cathode of LED has a mark of half-circle.
 | D1, D2 | LED, reverse mount |
 
 ![rabbit annotated](https://github.com/ndGarage/LastRabbit/blob/main/rabbit-annotated.png)
+
+## circuit
+
+The circult of LastRabbit is simple. Two inverter forms a oscillator. The details could be found in the application notes of NL27WZ04.
