@@ -19,6 +19,8 @@ The cathode of LED has a mark of half-circle.
 
 ![rabbit annotated](https://github.com/ndGarage/LastRabbit/blob/main/rabbit-annotated.png)
 
+![rabbit annotated](https://github.com/ndGarage/LastRabbit/blob/main/rabbit-assembled.png)
+
 ## circuit
 
 The circult of LastRabbit is simple. Two inverter forms an oscillator. The details could be found in the application notes of NL27WZ04.
